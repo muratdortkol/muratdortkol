@@ -2,6 +2,8 @@
 - 📫 How to reach me ... <br>
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muratdortkol/)
 [![instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/muratdortkol/)
+[![Medium Badge](https://img.shields.io/badge/-PersonalWebsite-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://muratdortkol.com.tr/)
+
 
 
 
