@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Murat,<br>I am currently working as a .net developer.<br>I have less than 1 year of experience as a software developer.<br>I am currently improving myself, working freelance.<br>Please contact me for your business and suggestions.
+Hi, I'm Murat,<br>I am currently working as a .net developer.<br>I am currently improving myself, working freelance.<br>Please contact me for your business and suggestions.
 
 
 ## 🌐 Socials:
